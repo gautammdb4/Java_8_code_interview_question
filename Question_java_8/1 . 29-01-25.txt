@@ -1,0 +1,7 @@
+WAP to count the occurrence of each character in a String?
+WAP to find all duplicate element  from a given String?
+WAP to find first non- repeat element  from a given string?
+WAP to find second highest number from given String ?
+WAP to find longest String from an Array ?
+
+
